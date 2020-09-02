@@ -7,6 +7,16 @@ import java.util.Random;
 /* 
 Password generator
 
+Implement the getPassword() method, which must return a ByteArrayOutputStream with the bytes comprising the password.
+Password requirements:
+1) 8 characters.
+2) Only numbers and uppercase and lowercase Latin letters.
+3) At least one numeral, one lowercase letter, and one uppercase letter.
+All generated passwords must be unique.
+
+Example of a valid password:
+wMh7smNu
+
 */
 public class Solution {
     public static void main(String[] args) throws IOException {
