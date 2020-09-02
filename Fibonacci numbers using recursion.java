@@ -1,10 +1,10 @@
-Implement a recursive fibonacci method, where n is the number of an element in the Fibonacci sequence.
-Don't create additional fields in the Solution class.
-
 package com.codegym.task.task34.task3401;
 
 /* 
 Fibonacci numbers using recursion
+
+Implement a recursive fibonacci method, where n is the number of an element in the Fibonacci sequence.
+Don't create additional fields in the Solution class.
 
 */
 public class Solution {
